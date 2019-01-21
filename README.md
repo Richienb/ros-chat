@@ -1,2 +1,2 @@
-# ros-chat
+# ROS Chat
 The official website of ROS Chat.
